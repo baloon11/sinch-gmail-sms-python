@@ -57,6 +57,8 @@ You need to install 2 packages:
 	(more about this package: https://pypi.python.org/pypi/sinchsms/1.0.3)
 
 
+---------------------------------------
+
 
 If my script is not suitable for any reason,
 I advise look for services,which used HTTP GET request as API.
