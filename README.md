@@ -17,6 +17,7 @@ Android application you can find here:
 https://play.google.com/store/search?q=sms2email
 
 Usage
+-----
 
 Send
 
@@ -43,21 +44,22 @@ Such letters in the mailbox it marked as Normal.
 Оther letters it does not read.
 
 Requirements
+------------
 
 You need to install 2 packages:
 
 	git clone git://github.com/charlierguo/gmail.git
 	(more about this package: https://github.com/charlierguo/gmail)
+
 +
+
 	pip install sinchsms
 	(more about this package: https://pypi.python.org/pypi/sinchsms/1.0.3)
 
 
 
 If my script is not suitable for any reason,
-
-I advise look for services,
-which used HTTP GET request as API.
+I advise look for services,which used HTTP GET request as API.
 
 (These services exist.)
 
