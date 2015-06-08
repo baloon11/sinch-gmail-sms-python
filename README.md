@@ -18,6 +18,7 @@ https://play.google.com/store/search?q=sms2email
 
 Usage
 -----
+	git clone git://github.com/baloon11/sinch-gmail-sms-python.git
 
 Send
 
