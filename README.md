@@ -1,5 +1,5 @@
 
-This little script - one of the variants to send and receive SMS using Python.
+This little script - one of the variants to send and recive SMS using Python.
 
 For sending this script uses Python api http://sinch.com/ service
 
